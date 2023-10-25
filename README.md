@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/walter_dmp)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-dias-marques-pereira-84236922b/)
 
-![Walter GitHub stats](https://github-readme-stats.vercel.app/api?username=Wdamp99&show_icons=true&theme=dracula&count_private=true)
+![Walter GitHub stats](https://github-readme-stats.vercel.app/api?username=walterdmp&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
