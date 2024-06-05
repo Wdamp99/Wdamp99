@@ -8,5 +8,4 @@
 📘 Graduando em Sistemas de Informação
 
 ##
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/walter_dmp)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-dias-marques-pereira-84236922b/)
