@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Walter Dias 🖐️</h1>
+<h1 align="center">Olá! Eu sou o Walter</h1>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=walterdmp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
